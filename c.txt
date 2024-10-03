@@ -1,0 +1,7 @@
+
+Branch C
+Create a branch called:"branch-C
+Which has a file called "c.txt"
+Put the text "I love the letter C" in the file.
+add,commit and merge into main
+
